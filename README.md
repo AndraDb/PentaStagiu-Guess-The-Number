@@ -1,1 +1,1 @@
-# PentaStagiuC--Guess-The-Number
+# PentaStagiu-Guess-The-Number
